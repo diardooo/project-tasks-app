@@ -1,2 +1,10 @@
 # project-tasks-app
- tugas kelompok pemrograman web lanjut
+Tugas Projek Kelompok Pemrograman Web Lanjut
+
+Nama Kelompok :
+
+- MUHAMMAD LAZUARDI ADINEGARA (185150700111023)
+- CHARISMA PRASETYA PUTERA AMMAL (185150700111019)
+- DIMAS DIANDRA AUDIANSYAH (185150701111018)
+
+
